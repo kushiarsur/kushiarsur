@@ -9,7 +9,7 @@ I enjoy solving problems, exploring new technologies, and developing intelligent
 ## 🛠️ Tech Stack
 
 **Programming Languages**
-- Python, Java, C, C++, SQL, JavaScript
+- Python, Java, C, SQL
 
 **AI / Machine Learning**
 - Machine Learning, NLP, Generative AI, LLM Applications
